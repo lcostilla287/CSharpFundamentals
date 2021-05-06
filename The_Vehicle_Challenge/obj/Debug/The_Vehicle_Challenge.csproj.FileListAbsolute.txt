@@ -1,0 +1,14 @@
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\The_Vehicle_Challenge.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\The_Vehicle_Challenge.pdb
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\obj\Debug\The_Vehicle_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\obj\Debug\The_Vehicle_Challenge.csproj.CopyComplete
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\obj\Debug\The_Vehicle_Challenge.dll
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\obj\Debug\The_Vehicle_Challenge.pdb
+C:\Users\luis1\Desktop\ElevenFiftyProjects\CSharpFundamentals\The_Vehicle_Challenge\obj\Debug\The_Vehicle_Challenge.csprojAssemblyReference.cache
