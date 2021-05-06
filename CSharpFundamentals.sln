@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_StreamingContent_Reposit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallenge_W2D2", "MorningChallenge_W2D2\MorningChallenge_W2D2.csproj", "{8AF222BC-519D-47FA-AC36-611D48DFC0B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Interfaces", "08_Interfaces\08_Interfaces.csproj", "{78AACC30-BA0C-4B41-BA96-DAF353740B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8AF222BC-519D-47FA-AC36-611D48DFC0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AF222BC-519D-47FA-AC36-611D48DFC0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AF222BC-519D-47FA-AC36-611D48DFC0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
