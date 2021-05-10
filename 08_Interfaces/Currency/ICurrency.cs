@@ -11,5 +11,6 @@ namespace _08_Interfaces.Currency
         string Name { get; }
 
         decimal Value { get; }
+
     }
 }

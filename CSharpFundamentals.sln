@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallenge_W2D2", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Interfaces", "08_Interfaces\08_Interfaces.csproj", "{78AACC30-BA0C-4B41-BA96-DAF353740B08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallenge_W3D1", "MorningChallenge_W3D1\MorningChallenge_W3D1.csproj", "{66A8514F-BA18-4A4F-9D24-7AC2F5A6E754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_StreamingContent_UIRefactor", "09_StreamingContent_UIRefactor\09_StreamingContent_UIRefactor.csproj", "{9239EB55-D104-47F4-8C09-F06D989CF17F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78AACC30-BA0C-4B41-BA96-DAF353740B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A8514F-BA18-4A4F-9D24-7AC2F5A6E754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A8514F-BA18-4A4F-9D24-7AC2F5A6E754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A8514F-BA18-4A4F-9D24-7AC2F5A6E754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A8514F-BA18-4A4F-9D24-7AC2F5A6E754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9239EB55-D104-47F4-8C09-F06D989CF17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9239EB55-D104-47F4-8C09-F06D989CF17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9239EB55-D104-47F4-8C09-F06D989CF17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9239EB55-D104-47F4-8C09-F06D989CF17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
